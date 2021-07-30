@@ -1,0 +1,9 @@
+{
+  "name": "ethers-utils",
+  "version": "0.1.0",
+  "description": "Utils and function for ethers",
+  "main": ".",
+  "author": "Finaritra Andrianiaina",
+  "license": "MIT",
+  "private": false
+}
